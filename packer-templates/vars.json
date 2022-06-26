@@ -1,0 +1,7 @@
+{
+    "product_images_project_id": "chrome-energy-349619",
+    "zone": "europe-central2-a",
+    "product_name": "debian10-withnginx-user1-v1",
+    "source_image_family": "debian-10",
+    "image_description": "My image for user1, with nginx on board."
+  }
